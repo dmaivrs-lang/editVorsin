@@ -832,7 +832,8 @@ main > section {
 }
 
 /* ========== INCLUDES ========== */
-.includes .section-head__sub {
+.includes .section-head__sub,
+.audience .section-head__sub {
     max-width: none;
 }
 
